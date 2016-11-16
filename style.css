@@ -1,0 +1,12 @@
+
+
+
+.navbar-inverse .navbar-nav>li>a{color: #000000; background-color: #730099}
+.active{background-color:#730099} 
+.navbar-collapse{background-color: #730099}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {background-color: #730099}
+
+body {margin-bottom: 110px; font-family: "Helvetica Neue" }
+footer{color:#000000; margin-bottom: -6px; }
+.navbar-inverse{background-color: #a600dd}
+
